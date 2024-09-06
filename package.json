@@ -39,7 +39,7 @@
     "license": "MIT",
     "dependencies": {
         "phaser": "^3.60.0",
-        "vue": "^3.2.47",
+        "vue": "^3.3.5",
         "typescript": "^5.0.4"
     },
     "devDependencies": {
